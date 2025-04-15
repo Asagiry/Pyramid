@@ -1,4 +1,4 @@
-# Pyramid Heap Builder 🏗️
+# Pyramid
 
 ## Описание
 
