@@ -1,0 +1,7 @@
+C:\Users\voima\source\repos\Pyramid\Pyramid\bin\Debug\Pyramid.exe.config
+C:\Users\voima\source\repos\Pyramid\Pyramid\bin\Debug\Pyramid.exe
+C:\Users\voima\source\repos\Pyramid\Pyramid\bin\Debug\Pyramid.pdb
+C:\Users\voima\source\repos\Pyramid\Pyramid\obj\Debug\Pyramid.csproj.AssemblyReference.cache
+C:\Users\voima\source\repos\Pyramid\Pyramid\obj\Debug\Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\voima\source\repos\Pyramid\Pyramid\obj\Debug\Pyramid.exe
+C:\Users\voima\source\repos\Pyramid\Pyramid\obj\Debug\Pyramid.pdb

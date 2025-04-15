@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\voima\\source\\repos\\Pyramid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{922AA0CA-D871-4FC9-99F5-8CFA30A9D2EE}|Pyramid\\Pyramid.csproj|c:\\users\\voima\\source\\repos\\pyramid\\pyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922AA0CA-D871-4FC9-99F5-8CFA30A9D2EE}|Pyramid\\Pyramid.csproj|solutionrelative:pyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Pyramid||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pyramid",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\Pyramid\\Pyramid\\Pyramid.csproj",
+              "RelativeDocumentMoniker": "Pyramid\\Pyramid.csproj",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\Pyramid\\Pyramid\\Pyramid.csproj",
+              "RelativeToolTip": "Pyramid\\Pyramid.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-18T21:33:53.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\Pyramid\\Pyramid\\Program.cs",
+              "RelativeDocumentMoniker": "Pyramid\\Program.cs",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\Pyramid\\Pyramid\\Program.cs*",
+              "RelativeToolTip": "Pyramid\\Program.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T18:51:34.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
